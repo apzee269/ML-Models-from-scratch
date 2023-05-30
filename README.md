@@ -2,14 +2,6 @@
 <html>
 <body>
   <h1>README</h1>
-  <p>This is a sample README file for a GitHub project. It includes the following sections:</p>
-  <ul>
-    <li>Introduction</li>
-    <li>Installation</li>
-    <li>Usage</li>
-    <li>Contributing</li>
-    <li>License</li>
-  </ul>
   <h2>Introduction</h2>
   <p>This project is a simple example of a README file. It includes the following sections:</p>
   <ul>
