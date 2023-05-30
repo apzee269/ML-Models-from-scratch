@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>README</title>
-</head>
 <body>
   <h1>README</h1>
   <p>This is a sample README file for a GitHub project. It includes the following sections:</p>
